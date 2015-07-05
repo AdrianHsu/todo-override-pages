@@ -638,7 +638,8 @@ var initThree = function() {
   }
   renderer.setSize(bodyWidth, bodyHeight);
   canvas.appendChild(renderer.domElement);
-  renderer.setClearColor(0xeeeeee, 1.0);
+  renderer.setClearColor(0xFFFFFF, 1.0);
+  //renderer.setClearColor(0xeeeeee, 1.0);
   
   scene = new THREE.Scene();
 };
