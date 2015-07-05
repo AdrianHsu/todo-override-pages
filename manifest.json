@@ -3,10 +3,10 @@
   "name": "Adrian's parse-react-todo",
   "short_name": "NTR!",
   "description": "Adrian's parse-react-todo",
-  "version": "3.1.4",
+  "version": "0.0.1",
   "chrome_url_overrides": {
     "newtab": "main.html"
   },
   "permissions": ["storage", "chrome://favicon/"]
-  // "optional_permissions": ["tabs", "topSites", "management", "bookmarks"],
+
 }
